@@ -3,7 +3,7 @@
 
 A modern, responsive website for a Japanese restaurant featuring elegant animations, intuitive navigation, and a stunning showcase of Japanese cuisine. Built with attention to UI/UX principles and modern web development practices.
 
-![Sushiman Preview](/api/placeholder/800/400)
+![Sushiman Preview](https://github.com/ShahilMd/Modern-Ui-/blob/main/dist/assets/foodweb.png)
 
 ## ✨ Features
 
