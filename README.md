@@ -86,6 +86,7 @@ The website features two types of animations:
 
 
 ## 🙏 Credits
+- Development Tutorial: JavaScript Mastery (YouTube)
 - Try to replicate the design post on dribbble by  Hakim Haiman
 - Design inspiration from Hakim Haiman
 - Icons from various free SVG providers
